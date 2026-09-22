@@ -1,7 +1,7 @@
-# Snowman Logistics — Business Analytics Case Study
+# Snowman Logistics - Business Analytics Case Study
 
-A small end-to-end analysis of **Snowman Logistics Ltd (NSE: SNOWMAN)** — India's
-only listed pure-play cold-chain logistics company — built to apply MSc Business
+A small end-to-end analysis of **Snowman Logistics Ltd (NSE: SNOWMAN)** - India's
+only listed pure-play cold-chain logistics company - built to apply MSc Business
 Analytics coursework (Business Statistics, Advanced Data Analytics, Data
 Management, Supply Chain Strategy) to a real, public dataset.
 
